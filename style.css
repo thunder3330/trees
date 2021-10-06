@@ -1,0 +1,32 @@
+
+
+.container {
+width: 100vw;
+height: 100vh;
+color:rgb(13, 0, 128);
+margin-top: 200px;
+}
+
+h4 {
+font-size: 120%;
+}
+
+hr {
+width: 10%;
+}
+
+.change {
+background: transparent;
+color: (255, 255, 255);
+border-radius: 30px;
+font-size: 120%;
+padding: 15px 20px;
+margin: 50px;
+}
+
+iframe {
+border: none}
+
+body{background: url('https://cdn.storymirror.com/cover/original/vqo1gm6n.jpg')}
+
+
